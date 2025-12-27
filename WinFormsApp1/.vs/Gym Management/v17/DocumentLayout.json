@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|c:\\users\\alexandra dumitrescu\\desktop\\facultate\\poo\\winformsapp1\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|solutionrelative:forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|c:\\users\\alexandra dumitrescu\\desktop\\facultate\\poo\\winformsapp1\\forms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|solutionrelative:forms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|c:\\users\\alexandra dumitrescu\\desktop\\facultate\\poo\\winformsapp1\\ui\\admin\\salizonecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|solutionrelative:ui\\admin\\salizonecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|solutionrelative:forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|c:\\users\\alexandra dumitrescu\\desktop\\facultate\\poo\\winformsapp1\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ADBB6C-4A63-407D-A3C0-9B5880B4188C}|Gym Management.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaliZoneControl.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\UI\\Admin\\SaliZoneControl.cs",
+              "RelativeDocumentMoniker": "UI\\Admin\\SaliZoneControl.cs",
+              "ToolTip": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\UI\\Admin\\SaliZoneControl.cs",
+              "RelativeToolTip": "UI\\Admin\\SaliZoneControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:09:31.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\Forms\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\Forms\\AdminForm.Designer.cs",
+              "RelativeToolTip": "Forms\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAWwGcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:08:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\Forms\\AdminForm.cs",
+              "RelativeToolTip": "Forms\\AdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T15:11:50.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\Forms\\AdminForm.cs [Design]",
+              "RelativeToolTip": "Forms\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T15:11:46.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Alexandra Dumitrescu\\Desktop\\Facultate\\POO\\WinFormsApp1\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T15:09:56.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
